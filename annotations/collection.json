@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://sarahmgriffin.github.io/ApocalypseAnnotations/annotations/Take1" ],
+  "@id" : "https://sarahmgriffin.github.io/ApocalypseAnnotations/annotations/collection.json",
+  "label" : "All annotations loaded in sarahmgriffin/ApocalypseAnnotations project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
